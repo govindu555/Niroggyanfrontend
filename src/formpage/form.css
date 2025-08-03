@@ -1,0 +1,53 @@
+.patient{
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+.headname{
+    font-size: 40px;
+    color: blue;
+}
+
+.form{
+    display: grid;
+    grid-template-columns: 400px 400px;
+}
+
+.patientname{
+    font-size: 20px;
+    color: blue;
+}
+
+.input{
+    width: 300px;
+    height: 30px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.input:hover{
+    border-color: blue;
+}
+
+.patient2{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.submit{
+    margin-top: 150px;
+}
+
+.submit2{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+
+.submit2:hover{
+    cursor: pointer;
+    box-shadow: 2px 2px 2px blue;
+}

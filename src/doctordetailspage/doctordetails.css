@@ -1,0 +1,65 @@
+.doctorone{
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+
+.hi{
+    font-size: 40px;
+}
+
+.doctorone2{
+    display: grid;
+    grid-template-columns: 200px 500px 200px;
+    justify-content: center;
+    margin-top:100px;
+}
+
+.imageone{
+    border-radius: 100px;
+}
+
+.nameone{
+    font-size: 30px;
+    color: blue;
+}
+
+.textone{
+    font-size: 18px;
+}
+
+.statusone{
+    font-size: 20px;
+    color: green;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+.statustwo{
+    color: red;
+}
+
+.book{
+    width: 200px;
+    background-color: blue;
+    color: white;
+}
+
+.book:hover{
+    box-shadow: 2px 2px 2px blue;
+}
+
+.arrow{
+    margin-right: 20px;
+    color: blue;
+}
+
+.arrow:hover{
+    cursor: pointer;
+    background-color:lightgray;
+    border-radius: 20px;
+}
+
+.sorry{
+    font-size: 20px;
+    color: red;
+}

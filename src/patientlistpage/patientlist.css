@@ -1,0 +1,55 @@
+.patientmain{
+    margin-left: 250px;
+    margin-top: 10px;
+    position: fixed;
+    top: 100px;
+}
+
+.patientlist{
+    width: 80vw;
+    display: grid;
+    grid-template-columns: 150px 400px 300px 150px;
+    background-color: rgb(245, 244, 244);
+}
+
+.patientname{
+    font-size: 20px;
+    color: black;
+}
+
+.patientdetails2{
+    display: grid;
+    grid-template-columns: 100px 300px 300px 150px 150px;
+    justify-content: space-around;
+}
+
+.patientdetails{
+    overflow-y: scroll;
+    height: 70vh;
+}
+
+.patientone{
+    font-size: 20px;
+    overflow: hidden;
+}
+
+.icons{
+    display: flex;
+}
+
+.edit{
+    margin-right: 10px;
+    background-color: white;
+}
+.delete{
+    margin-right: 30px;
+    background-color: white;
+}
+.edit1{
+    color: gray;
+}
+
+.delete1{
+    color: red;
+    font-size: 20px;
+}

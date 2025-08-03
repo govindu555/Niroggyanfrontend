@@ -1,0 +1,22 @@
+.side{
+    height: 100vh;
+    position: fixed;
+    top: 100px;
+    width: 30vh;
+    border-color: lightgray;
+    border-width: 1px;
+    box-shadow:2px 2px 2px lightgray;
+    text-align: center;
+}
+
+.sidename{
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 30px;
+    color: blue;
+}
+
+.sidename:hover{
+    cursor: pointer;
+    background-color: lightgray;
+}
